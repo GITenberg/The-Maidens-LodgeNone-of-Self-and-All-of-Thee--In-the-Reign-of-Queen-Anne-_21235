@@ -1,0 +1,37 @@
+_repo: The-Maidens-LodgeNone-of-Self-and-All-of-Thee--In-the-Reign-of-Queen-Anne-_21235
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Petherick, Horace
+    aliases:
+    - Petherick, H. W. (Horace William)
+    - Petherick, Horace William
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '9400'
+    url: http://www.gutenberg.org/2009/agents/9400
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714 -- Fiction'
+- !lcc 'PR'
+title: "The Maidens' Lodge; or, None of Self and All of Thee\r\n(In the Reign of Queen\
+  \ Anne)"
+url: http://www.gutenberg.org/ebooks/21235
